@@ -1,0 +1,29 @@
+.card{
+    max-width: 40%;
+    padding: 70px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input[type="submit"] {
+    background-color: rgb(116, 200, 227);
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 3px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    color: red;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    border-radius: 3px;
+    padding: 5px;
+}
